@@ -1,0 +1,1 @@
+ffmpeg -i DVA1A.avi -c:v libx264 -preset superfast -crf 18 -pix_fmt yuv420p -coder vlc -refs 1 -qmin 4 -c:a aac -b:a 256k -ar 48000 DVA1A.mp4

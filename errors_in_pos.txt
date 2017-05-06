@@ -1,0 +1,8 @@
+offsets:
+
+DVA2C: -6.045966
+DVA12S: -6.0317 (pos loopt voor op textgrid)
+
+
+
+pos van DVA6H hoort bij textgrid van DVA12S
