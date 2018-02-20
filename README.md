@@ -1,6 +1,6 @@
 ## What?
 
-This repo contains some files that were used in a project that looked at the influence of different factors on Floor Transfer Offset (FTO) in the [IFADV corpus](http://www.fon.hum.uva.nl/IFA-SpokenLanguageCorpora/IFADVcorpus/).
+This repo contains some files that were used in a project that looked at the influence of different factors on Floor Transfer Offset (FTO) in the [IFADV corpus](http://www.fon.hum.uva.nl/IFA-SpokenLanguageCorpora/IFADVcorpus/) using a Random Forest analysis.
 
 ## Floor Transfer Offset (FTO)
 
