@@ -1,4 +1,0 @@
-- complete overlaps are not considered (i.e. mostly backchannels), preference is given to the longer utterance
-- utterance: a stretch of talk by a single speaker that is uninterrupted by silence (it can be divided into multiple chunks due to the coding of IFADV)
-- talk: any interval of signal that is coded (i.e. all intervals except those that are annotated with "sil") Perhaps all laughter "ggg." should also be excluded
-- also make dataset with turns based on automatic alignment
